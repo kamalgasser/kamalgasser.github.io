@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Kamal_photo.png"
+  avatar           : "images/Kamal_photo.png"
   name             : "Kamal Gasser"
   pronouns         : # example: "she/her"  
   bio              : "phD student in statistics at the University Catholic of Louvain"
